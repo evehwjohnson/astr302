@@ -1,3 +1,3 @@
 # My first ASTR 302 git repository
 
-We're practicing git stuff here
+We're practicing git stuff herenew stuff
